@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "com.unascribed.unsup.json"
-hash = "30a01f2439dabd2c7ce469b08122042965f7ed78e3877f96be81c60338472ad4"
+hash = "cbd39b8615d950d4880e20235cec4b21d4870dca5ee9046a34265b3852f11fcb"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -181,4 +181,4 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "4fdd19c15a73ea356d50f6743a5970a507392521789975dbf1700c9577f0d255"
+hash = "42644c4319f5987e6979a26bd3b193317f5ffc4e08811e3cb68828a00650d2c3"
