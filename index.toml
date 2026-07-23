@@ -15,6 +15,11 @@ hash = "4faf6a6e7c27386b182e0c45f27d750d841ceff87e080ccc24341580e9022155"
 metafile = true
 
 [[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "c52685c8692f97dd8f0aa58189cacb4f558829a47bece1857ca0c75563eda752"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ea2b302c7d0e0ba1ecec31e44a134279d593a0665034bffc937ace6058abe4ce"
 metafile = true
