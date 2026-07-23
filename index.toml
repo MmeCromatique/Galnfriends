@@ -5,6 +5,14 @@ file = "com.unascribed.unsup.json"
 hash = "cbd39b8615d950d4880e20235cec4b21d4870dca5ee9046a34265b3852f11fcb"
 
 [[files]]
+file = "config/trmt.json"
+hash = "0db51c936a0ae605579f4b042d7bf844edc5ee5af2621dd83d60a97338c9e48d"
+
+[[files]]
+file = "config/via_romana.json"
+hash = "fcf2270fa26ef07a35e2dd0897c24924353021c661da608ce38d8c0dcede82d3"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
