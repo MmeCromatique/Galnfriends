@@ -10,11 +10,6 @@ hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
-file = "mods/azurelib.pw.toml"
-hash = "4faf6a6e7c27386b182e0c45f27d750d841ceff87e080ccc24341580e9022155"
-metafile = true
-
-[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "c52685c8692f97dd8f0aa58189cacb4f558829a47bece1857ca0c75563eda752"
 metafile = true
@@ -107,11 +102,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
-metafile = true
-
-[[files]]
-file = "mods/origin-furs.pw.toml"
-hash = "78f06485e4a4dc294018fe8fcc8a5894b37de24672782a0a228a39e58a7bfcf7"
 metafile = true
 
 [[files]]
