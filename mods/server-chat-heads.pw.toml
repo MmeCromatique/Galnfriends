@@ -1,0 +1,13 @@
+name = "Server Chat Heads"
+filename = "chatheads-0.4+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EM2ioiwa/versions/1Z7aeSRu/chatheads-0.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "fcff8b2bbaa6ff7079004f01a7c441b96132beea384ed2769479f11898a7940f61bc25a44e672c01abcec82361ac1ab2d29735a7c95abb5a877753414b4b1b10"
+
+[update]
+[update.modrinth]
+mod-id = "EM2ioiwa"
+version = "1Z7aeSRu"

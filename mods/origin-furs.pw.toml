@@ -1,0 +1,13 @@
+name = "Origin Furs"
+filename = "originfur-1.0.11-maybeworks.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T0alwZVT/versions/L6lVd5H8/originfur-1.0.11-maybeworks.jar"
+hash-format = "sha512"
+hash = "5e62c2cdc71e821a43042ce2613dc0d2a12f2f0a50f519929be51cad14743f5de8c520711ff388b2ec79a2b65da7e93f732b85c447ce9e86530eb829d326f73d"
+
+[update]
+[update.modrinth]
+mod-id = "T0alwZVT"
+version = "L6lVd5H8"

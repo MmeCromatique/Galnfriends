@@ -1,0 +1,171 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "4faf6a6e7c27386b182e0c45f27d750d841ceff87e080ccc24341580e9022155"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ea2b302c7d0e0ba1ecec31e44a134279d593a0665034bffc937ace6058abe4ce"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "27b340bf33ebf2eb7c543d8e8b47d81fc7212298345a8c96cb7b989565d7b7e3"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "f23a0d6d48cc27e24e8c4cacf9231fe146f82e9ff27c90b2fd96e1de4482e765"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "93c14684652eae26a5015d4b2663403d5384bcd63e0b196ec042b56cea725a86"
+metafile = true
+
+[[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "905ba843d29c2be3673118d492f3cbcf4a58bdac8e12d0a8705f6b3a35281840"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "509726ae05260d3145f213d0ee630b15f43e7ddbebaeba4c30798f6c70e42458"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "3d26ad5d3f7693336b18c894f37978f7490d284f7f3b19b46d0527a7938789fc"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a3a9ecc2b89b53f90ed6c2101e24baa9343827134e8f0468826d2e028976e01c"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "647807ff387e333abd790b47082a3cf6b7d41a2b27a4337ff65a611f096a7315"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "1286ea201dfd94aa75b3565aa437f558da83e7f46d2b5d048e7b457cf9c085ec"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "22ca1b774bd7f8e29a672455d8aedc1c4929c79c365cb18116173643cf22e183"
+metafile = true
+
+[[files]]
+file = "mods/nether-depths-upgrade.pw.toml"
+hash = "cd443155b8de7c25c43c715ad6c287b96b5ad1aee366197f1a7f1017393ce5a5"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
+metafile = true
+
+[[files]]
+file = "mods/origin-furs.pw.toml"
+hash = "78f06485e4a4dc294018fe8fcc8a5894b37de24672782a0a228a39e58a7bfcf7"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "55c77068f58d1301b4ab3e6287629b63e427df4994a52b6e1eecc844ce62b6d3"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/server-chat-heads.pw.toml"
+hash = "30433efd8145906325ca92d57c480f04cb7147c7c331e9b89ec693af6f2112d5"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "9c30553415e8f35e17cbfc760cd125a7dc603a611f261a153b52ef65138cb519"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "83b5a1c0b39aa94492a13f319c097ff8e7e55a6718e287e5d73b32f7500f1727"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "b07c9051dc5854862f6f16691ccd0b781d41684aaff05341fbd449c572b5aefa"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "311d23361c153f7adcad260255fe3b2062f1c8e67c75ee088e0b61855e9d9134"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "4ea85fa7d750bf5a167fe9652f2ac896d12ab068dacb8b04539e316ba5b74042"
+metafile = true
+
+[[files]]
+file = "mods/the-roads-more-travelled.pw.toml"
+hash = "684c15273ce9b9afbe4903609de9276b45be4a54362f1bd0643de500f1df5dc5"
+metafile = true
+
+[[files]]
+file = "mods/via-romana.pw.toml"
+hash = "572059a788e49f36998675f6e95d053bc6124078295f468ed7bc73745a444a2c"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "388ad48f4bd97f7391bfcedd485fe5faa2c6ecffd3369dd7d3cbf031b7b04551"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
