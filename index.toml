@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "com.unascribed.unsup.json"
+hash = "30a01f2439dabd2c7ce469b08122042965f7ed78e3877f96be81c60338472ad4"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
@@ -169,3 +173,7 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "f87940a3301df8af5ebbae9bd54a2494683b94460d485d48fa3e3d1e43111f0e"
