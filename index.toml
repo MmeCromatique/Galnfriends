@@ -13,6 +13,11 @@ file = "config/via_romana.json"
 hash = "fcf2270fa26ef07a35e2dd0897c24924353021c661da608ce38d8c0dcede82d3"
 
 [[files]]
+file = "global_packs/required_resources/classic-menu-panorama.pw.toml"
+hash = "16e227401f1e81060ab6dd290b15980fa06710c737c271e2977909cac5b48a98"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
@@ -185,11 +190,6 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "388ad48f4bd97f7391bfcedd485fe5faa2c6ecffd3369dd7d3cbf031b7b04551"
-metafile = true
-
-[[files]]
-file = "resourcepacks/classic-menu-panorama.pw.toml"
-hash = "16e227401f1e81060ab6dd290b15980fa06710c737c271e2977909cac5b48a98"
 metafile = true
 
 [[files]]
