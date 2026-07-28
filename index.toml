@@ -6,7 +6,7 @@ hash = "cbd39b8615d950d4880e20235cec4b21d4870dca5ee9046a34265b3852f11fcb"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json.json"
-hash = "d6a53a05b1edc7c09b80f624e55b91096bfe16b58f7970a1ac8db3af2c4f3c32"
+hash = "f03abbf31ae65e05919cb049a4c82a8e996bdea511b090a00f71a5f506186f5a"
 
 [[files]]
 file = "config/trmt.json"
