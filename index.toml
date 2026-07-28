@@ -5,6 +5,10 @@ file = "com.unascribed.unsup.json"
 hash = "cbd39b8615d950d4880e20235cec4b21d4870dca5ee9046a34265b3852f11fcb"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "859c064bdeb7f27df348cb673862499cf5c98c23136621d95c9372e2dfffee76"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "f03abbf31ae65e05919cb049a4c82a8e996bdea511b090a00f71a5f506186f5a"
 
