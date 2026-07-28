@@ -5,6 +5,10 @@ file = "com.unascribed.unsup.json"
 hash = "cbd39b8615d950d4880e20235cec4b21d4870dca5ee9046a34265b3852f11fcb"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json.json"
+hash = "d6a53a05b1edc7c09b80f624e55b91096bfe16b58f7970a1ac8db3af2c4f3c32"
+
+[[files]]
 file = "config/trmt.json"
 hash = "0db51c936a0ae605579f4b042d7bf844edc5ee5af2621dd83d60a97338c9e48d"
 
@@ -35,6 +39,11 @@ metafile = true
 [[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "c52685c8692f97dd8f0aa58189cacb4f558829a47bece1857ca0c75563eda752"
+metafile = true
+
+[[files]]
+file = "mods/better-end-cities-for-betterend.pw.toml"
+hash = "0343e531077f45e4e36ee7053df20042f8b91ccf4266dccbde6e40302c79badd"
 metafile = true
 
 [[files]]
@@ -130,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "74df0a7f9ccdddedc969c17b3abb8432eab8c3abcdf885a6acfe422b62a4e07d"
 metafile = true
 
 [[files]]
