@@ -21,6 +21,18 @@ file = "config/via_romana.json"
 hash = "fcf2270fa26ef07a35e2dd0897c24924353021c661da608ce38d8c0dcede82d3"
 
 [[files]]
+file = "config/wover/cached.json"
+hash = "4d53c95d333370e0aae1ecb5059da6e7cec191a1fc9573b269104e66dc49c201"
+
+[[files]]
+file = "config/wover/client.json"
+hash = "91e13e68dd17b26aa60055b7ad4ab271e6eedc875b4ed2c47a3b15a9dadafd33"
+
+[[files]]
+file = "config/wover/main.json"
+hash = "50e9b9c108e2e40a33fa61248cedb32737a58b5bb828a1bee14599baed859507"
+
+[[files]]
 file = "global_packs/required_resources/classic-menu-panorama.pw.toml"
 hash = "16e227401f1e81060ab6dd290b15980fa06710c737c271e2977909cac5b48a98"
 metafile = true
