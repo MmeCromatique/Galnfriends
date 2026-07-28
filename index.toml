@@ -5,7 +5,7 @@ file = "com.unascribed.unsup.json"
 hash = "cbd39b8615d950d4880e20235cec4b21d4870dca5ee9046a34265b3852f11fcb"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json.json"
+file = "config/fabric_loader_dependencies.json"
 hash = "f03abbf31ae65e05919cb049a4c82a8e996bdea511b090a00f71a5f506186f5a"
 
 [[files]]
@@ -147,6 +147,11 @@ hash = "74df0a7f9ccdddedc969c17b3abb8432eab8c3abcdf885a6acfe422b62a4e07d"
 metafile = true
 
 [[files]]
+file = "mods/macu-lib.pw.toml"
+hash = "6a5029bf4de445ac38aa51fb0f8d649777ed8f9f18ee1e8f656289e1d6483c3e"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "647807ff387e333abd790b47082a3cf6b7d41a2b27a4337ff65a611f096a7315"
 metafile = true
@@ -184,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
+metafile = true
+
+[[files]]
+file = "mods/obese-crops.pw.toml"
+hash = "549914d8e443da6ff906fe18e50ebd2f9fb6f37e7cfeb2f1132ba8355d9dee4b"
 metafile = true
 
 [[files]]
