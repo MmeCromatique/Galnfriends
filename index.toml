@@ -9,6 +9,10 @@ file = "config/bclib/client.json"
 hash = "859c064bdeb7f27df348cb673862499cf5c98c23136621d95c9372e2dfffee76"
 
 [[files]]
+file = "config/desiredservers.json"
+hash = "e659ccd9ef621febe00c4a9ad3f4dab8f8930d299f53e7e8d353ff82ce4e39a7"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "f03abbf31ae65e05919cb049a4c82a8e996bdea511b090a00f71a5f506186f5a"
 
