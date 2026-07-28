@@ -18,6 +18,11 @@ hash = "16e227401f1e81060ab6dd290b15980fa06710c737c271e2977909cac5b48a98"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves-refabricated.pw.toml"
+hash = "b6b1a442fd264f2322985aaa6ba0eda747d03a7bcb700c434d95c271293a1a86"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
@@ -43,6 +48,11 @@ hash = "2cf79d151d64ae6a26e037bc883c457eaec6089685df02c7474a1d130f6daaa7"
 metafile = true
 
 [[files]]
+file = "mods/bountiful-fares.pw.toml"
+hash = "74d01f28976604825851cdd8d8b9510b38ecd400f702600ff5a19214ad07442a"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ea2b302c7d0e0ba1ecec31e44a134279d593a0665034bffc937ace6058abe4ce"
 metafile = true
@@ -50,6 +60,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
 metafile = true
 
 [[files]]
@@ -133,6 +148,11 @@ hash = "1286ea201dfd94aa75b3565aa437f558da83e7f46d2b5d048e7b457cf9c085ec"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "603e34f7ad0bae9fae8a8d28adfdc37d5b17b206adae64ebd6332dc70a17d9ce"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "22ca1b774bd7f8e29a672455d8aedc1c4929c79c365cb18116173643cf22e183"
 metafile = true
@@ -140,6 +160,11 @@ metafile = true
 [[files]]
 file = "mods/nether-depths-upgrade.pw.toml"
 hash = "cd443155b8de7c25c43c715ad6c287b96b5ad1aee366197f1a7f1017393ce5a5"
+metafile = true
+
+[[files]]
+file = "mods/nexuslib.pw.toml"
+hash = "e84225dc0a7666cb711222411ea73edb192767aa4fcc5fff24e7ddb242ba7c4e"
 metafile = true
 
 [[files]]
@@ -225,6 +250,11 @@ metafile = true
 [[files]]
 file = "mods/the-roads-more-travelled.pw.toml"
 hash = "684c15273ce9b9afbe4903609de9276b45be4a54362f1bd0643de500f1df5dc5"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "f5b816b8de8c237a6a7b51fda8323627a995796589fc6934ed4cd15e7f40e55a"
 metafile = true
 
 [[files]]
