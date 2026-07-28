@@ -103,6 +103,11 @@ hash = "56fe38665725e5395991777ad79e63961851d2666880461305b95f71d03fe996"
 metafile = true
 
 [[files]]
+file = "mods/desired-servers.pw.toml"
+hash = "a0eac016f2c9489880bf4ff51c62ba1b4473c29a86d6d0747f82ba58d8ff5504"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "f23a0d6d48cc27e24e8c4cacf9231fe146f82e9ff27c90b2fd96e1de4482e765"
 metafile = true
