@@ -10,7 +10,7 @@ hash = "859c064bdeb7f27df348cb673862499cf5c98c23136621d95c9372e2dfffee76"
 
 [[files]]
 file = "config/desiredservers.json"
-hash = "e659ccd9ef621febe00c4a9ad3f4dab8f8930d299f53e7e8d353ff82ce4e39a7"
+hash = "2a5b64cf7cc5c5059388cfa6692ccc372111963e821188f9e912458fb44c2180"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
