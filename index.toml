@@ -107,6 +107,11 @@ hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
 
 [[files]]
+file = "mods/field-guide.pw.toml"
+hash = "e04bfa21bb6a16ab90a6124637c6d846f44674fcac3e671024a61f3ee98823a7"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
@@ -127,8 +132,18 @@ hash = "a3a9ecc2b89b53f90ed6c2101e24baa9343827134e8f0468826d2e028976e01c"
 metafile = true
 
 [[files]]
+file = "mods/immersive-overlays.pw.toml"
+hash = "923db8f14a711fcd0c32d84a80215cd6ec29d9900e3235dce73a88374661b356"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "6ee94689dd67f0210e07feafac8140e8968bcbcd67defcfbdcd677cf78943900"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "b4a621cc384dbd3761a3ff4aa84caae00dadb90aa95de3d3f858f32f7f34f0ee"
 metafile = true
 
 [[files]]
