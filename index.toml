@@ -117,6 +117,11 @@ hash = "a0eac016f2c9489880bf4ff51c62ba1b4473c29a86d6d0747f82ba58d8ff5504"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "f23a0d6d48cc27e24e8c4cacf9231fe146f82e9ff27c90b2fd96e1de4482e765"
 metafile = true
