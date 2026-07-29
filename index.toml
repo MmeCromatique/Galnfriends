@@ -262,11 +262,6 @@ hash = "55c77068f58d1301b4ab3e6287629b63e427df4994a52b6e1eecc844ce62b6d3"
 metafile = true
 
 [[files]]
-file = "mods/pehkui.pw.toml"
-hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
-metafile = true
-
-[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
