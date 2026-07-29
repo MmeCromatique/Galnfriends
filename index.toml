@@ -52,6 +52,11 @@ hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "0fb3808193da9b587367337d12d202d7b006e2522637a6502913d66a84f8626f"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "2195df15cde85a2ec76bb9abec09597efc304e3fd1bca08fd4027ba053d86661"
 metafile = true
@@ -259,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "246e7782ef2cab501af48f56353de9d6a46f3479dcb12f282152eeacd03b7e60"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "d22546ad55b555931eb527f163b3564e00c12c7dc8101378b87447dfcc8e0652"
 metafile = true
 
 [[files]]
