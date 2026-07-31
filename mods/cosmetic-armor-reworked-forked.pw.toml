@@ -1,0 +1,13 @@
+name = "Cosmetic Armor Reworked Forked"
+filename = "cosmeticarmorreworkedforked-fabric-1.21.1-0.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6cpT8CUC/versions/Opxo4B2b/cosmeticarmorreworkedforked-fabric-1.21.1-0.0.4.jar"
+hash-format = "sha512"
+hash = "c7cd57e5eb226b31140e12719cbfe85aaa664eba7e78f53de8ca2fe0a3ea0ea1b25c7d636fb051d8c10a32a2bc899ec76ac989193037fcddf110b67502db1f91"
+
+[update]
+[update.modrinth]
+mod-id = "6cpT8CUC"
+version = "Opxo4B2b"

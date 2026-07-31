@@ -117,6 +117,11 @@ hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "3702940df85e46bd1737e550535b51bc4971529484a15c90bd6a2097dfedafa9"
+metafile = true
+
+[[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "56fe38665725e5395991777ad79e63961851d2666880461305b95f71d03fe996"
 metafile = true
