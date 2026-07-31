@@ -42,6 +42,16 @@ hash = "16e227401f1e81060ab6dd290b15980fa06710c737c271e2977909cac5b48a98"
 metafile = true
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "427ebc22faea5a83602994fda8ce762e45246472a5637debd5dcab22553917ce"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves-refabricated.pw.toml"
 hash = "b6b1a442fd264f2322985aaa6ba0eda747d03a7bcb700c434d95c271293a1a86"
 metafile = true
@@ -177,6 +187,11 @@ hash = "a3a9ecc2b89b53f90ed6c2101e24baa9343827134e8f0468826d2e028976e01c"
 metafile = true
 
 [[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "1fcaece229ee5b6a8a87bf7437525ab942b96c31552d1f5e4f5e87ec8e2b1a7f"
+metafile = true
+
+[[files]]
 file = "mods/immersive-overlays.pw.toml"
 hash = "923db8f14a711fcd0c32d84a80215cd6ec29d9900e3235dce73a88374661b356"
 metafile = true
@@ -262,6 +277,11 @@ hash = "55c77068f58d1301b4ab3e6287629b63e427df4994a52b6e1eecc844ce62b6d3"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "31e7b4d016cbdf3f0abbb1ab202cf60e84ff8330ebbf6f043739128fb9133fad"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
@@ -337,8 +357,23 @@ hash = "684c15273ce9b9afbe4903609de9276b45be4a54362f1bd0643de500f1df5dc5"
 metafile = true
 
 [[files]]
+file = "mods/tide-extra-compatibility.pw.toml"
+hash = "b0e3edb9309ceb7976d9cf5fdb5e416f70c654f27b0d648d97cd0ad79ef69342"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+hash = "0cc10a729369a3c2eed2fc3d757723c48275572e8e479d87ded1ea748d65ef7f"
+metafile = true
+
+[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "f5b816b8de8c237a6a7b51fda8323627a995796589fc6934ed4cd15e7f40e55a"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
