@@ -42,16 +42,6 @@ hash = "16e227401f1e81060ab6dd290b15980fa06710c737c271e2977909cac5b48a98"
 metafile = true
 
 [[files]]
-file = "mods/accessories-compat-layer.pw.toml"
-hash = "427ebc22faea5a83602994fda8ce762e45246472a5637debd5dcab22553917ce"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
-metafile = true
-
-[[files]]
 file = "mods/alexs-caves-refabricated.pw.toml"
 hash = "b6b1a442fd264f2322985aaa6ba0eda747d03a7bcb700c434d95c271293a1a86"
 metafile = true
