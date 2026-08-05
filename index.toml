@@ -62,11 +62,6 @@ hash = "2195df15cde85a2ec76bb9abec09597efc304e3fd1bca08fd4027ba053d86661"
 metafile = true
 
 [[files]]
-file = "mods/better-block-entities.pw.toml"
-hash = "c52685c8692f97dd8f0aa58189cacb4f558829a47bece1857ca0c75563eda752"
-metafile = true
-
-[[files]]
 file = "mods/better-end-cities-for-betterend.pw.toml"
 hash = "0343e531077f45e4e36ee7053df20042f8b91ccf4266dccbde6e40302c79badd"
 metafile = true
